@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/GoFresh/static/css/main.334a113b.chunk.css",
+    "main.js": "/GoFresh/static/js/main.4cebcb7d.chunk.js",
+    "main.js.map": "/GoFresh/static/js/main.4cebcb7d.chunk.js.map",
+    "runtime-main.js": "/GoFresh/static/js/runtime-main.882e8919.js",
+    "runtime-main.js.map": "/GoFresh/static/js/runtime-main.882e8919.js.map",
+    "static/css/2.dde13ac0.chunk.css": "/GoFresh/static/css/2.dde13ac0.chunk.css",
+    "static/js/2.63c1fcd5.chunk.js": "/GoFresh/static/js/2.63c1fcd5.chunk.js",
+    "static/js/2.63c1fcd5.chunk.js.map": "/GoFresh/static/js/2.63c1fcd5.chunk.js.map",
+    "index.html": "/GoFresh/index.html",
+    "static/css/2.dde13ac0.chunk.css.map": "/GoFresh/static/css/2.dde13ac0.chunk.css.map",
+    "static/css/main.334a113b.chunk.css.map": "/GoFresh/static/css/main.334a113b.chunk.css.map",
+    "static/js/2.63c1fcd5.chunk.js.LICENSE.txt": "/GoFresh/static/js/2.63c1fcd5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.882e8919.js",
+    "static/css/2.dde13ac0.chunk.css",
+    "static/js/2.63c1fcd5.chunk.js",
+    "static/css/main.334a113b.chunk.css",
+    "static/js/main.4cebcb7d.chunk.js"
+  ]
+}
